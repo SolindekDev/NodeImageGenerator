@@ -1,0 +1,27 @@
+{
+  "name": "nodeimagegenerator",
+  "version": "1.0.0",
+  "description": "Paczka umożliwia generowanie losowych zdjęć w danej kategorii || The package allows you to generate random photos in a given category",
+  "main": "module.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SolindekDev/NodeImageGenerator.git"
+  },
+  "keywords": [
+    "Image",
+    "Generator",
+    "Image",
+    "Generator",
+    "Zdjęcia",
+    "Losowe"
+  ],
+  "author": "Solindek",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/SolindekDev/NodeImageGenerator/issues"
+  },
+  "homepage": "https://github.com/SolindekDev/NodeImageGenerator#readme"
+}
