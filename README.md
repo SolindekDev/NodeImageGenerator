@@ -34,3 +34,40 @@ imageGenerator.randomBird()
 ```js
 imageGenerator.randomFox()
 ```
+
+# English
+The package allows you to generate random photos in a given category. Categories, but soon there will be many more, sample code that represents itself
+```javascript
+// We import our package to code
+const imageGenerator = require('node-image-generator')
+
+// We show a image
+console.log(imageGenerator.randomDog())
+```
+
+Below you will see all the uses of the package
+
+### Dog
+```javascript
+imageGenerator.randomDog()
+```
+
+### Cat
+```js
+imageGenerator.randomCat()
+```
+
+### Panda
+```js
+imageGenerator.randomPanda()
+```
+
+### Bird
+```js
+imageGenerator.randomBird()
+```
+
+### Fox
+```js
+imageGenerator.randomFox()
+```
