@@ -1,6 +1,6 @@
 {
   "name": "nodeimagegenerator",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "description": "Paczka umożliwia generowanie losowych zdjęć w danej kategorii || The package allows you to generate random photos in a given category",
   "main": "module.js",
   "scripts": {
